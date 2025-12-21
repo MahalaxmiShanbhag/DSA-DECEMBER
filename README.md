@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0242-valid-anagram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
