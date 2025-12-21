@@ -24,8 +24,6 @@ class Solution {
             }
             curr = curr.next;
         }
-
-        // Attach remaining nodes
         if (list1 != null) {
             curr.next = list1;
         } else {
