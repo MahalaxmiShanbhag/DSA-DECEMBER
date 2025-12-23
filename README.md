@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
