@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1732-find-the-highest-altitude) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
