@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0238-product-of-array-except-self) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1732-find-the-highest-altitude) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -66,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
