@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0238-product-of-array-except-self) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0242-valid-anagram) |
 ## String
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1732-find-the-highest-altitude) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
