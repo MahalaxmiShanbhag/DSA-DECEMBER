@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MahalaxmiShanbhag/DSA-DECEMBER/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
